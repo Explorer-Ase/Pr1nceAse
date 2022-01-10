@@ -1,0 +1,8 @@
+✦ Javascript (Basics of Programing language)
+✦ Intergrating JS with the Web
+     → Landing pages with JS, HTML & CSS 
+✦ Frontend Frameworks
+     → React
+     → NextJs
+✦ Backend Frameworks
+     → Firebase
