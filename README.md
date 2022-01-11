@@ -1,4 +1,4 @@
-- 👋 Yo! I’m @Pr1nceAsai ✦ 21y ~ He/Him/Them/They ✦ Music Poducer, Video Editor, and Photoshop ✦ Gamer ✦ 2nd Year/Graduating IT/Web Dev. College Student.
+- 👋 Yo! I’m @Pr1nceAcai ✦ 21y ~ He/Him/Them/They ✦ Music Poducer, Video Editor, and Photoshop ✦ Gamer ✦ 2nd Year/Graduating IT/Web Dev. College Student.
 - 👀 I’m interested in starting a new career in Web Development and Web Apps.
 - 🌱 I’m currently learning Javascript basics and intergrating JS with HTML & CSS ...
 - 💞️ I’m looking to collaborate on any small beginning projects I that'll help me grow experience and build my portfolio/resume.
